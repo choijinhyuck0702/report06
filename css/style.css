@@ -89,6 +89,9 @@ nav.menu ul li .sub-menu li a:hover{
     height: 300px;
     overflow: hidden;
 }
+.slider .inner h2{
+    text-indent: -9999px;
+}
 .slider .img-group{
     position: absolute;
     transition: 1s;
